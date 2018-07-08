@@ -1,1 +1,0 @@
-# Implementation-of-KNN-Using-Scratch
